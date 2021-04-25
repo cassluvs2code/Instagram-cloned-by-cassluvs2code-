@@ -1,6 +1,11 @@
 {
   "name": "instagram",
   "version": "0.1.0",
+  "author": {
+    "name": "Cassandra Austin",
+    "email": "2csporvida@gmail.com",
+    "url": "https://cassluvs2code.com"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
